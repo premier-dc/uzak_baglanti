@@ -12,6 +12,7 @@ Bazı durumlarda, Windows SmartScreen size bir güvenlik uyarısı gösterebilir
 
 
 
+<img width="386" alt="indir" src="https://github.com/premier-dc/uzak_baglanti/assets/138769717/14f30f4d-d31c-4ed3-b53e-498bbd033f42">
 
 
 
